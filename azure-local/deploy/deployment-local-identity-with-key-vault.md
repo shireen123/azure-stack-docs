@@ -1,5 +1,5 @@
 --- 
-title: Deploy Azure Local, version 23H2 using local identity with Azure Key Vault (preview)
+title: Deploy Azure Local, version 23H2 using local identity with Azure Key Vault 
 description: Learn how to use local identity with Azure Key Vault for Azure Local, version 23H2 deployment (preview).
 author: alkohli
 ms.topic: how-to
